@@ -2,10 +2,10 @@
     <v-container class="pa-0">
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
-               <p class="google-font" style="font-size:180%">What we do?</p>
-               <p class="google-font" style="font-size:110%">Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.</p>
+               <p class="google-font" style="font-size:180%">我们在做什么</p>
+               <p class="google-font" style="font-size:110%">谷歌开发社区是为那些对谷歌技术感兴趣的开发者而设立的。</p>
 
-               <p class="google-font" style="font-size:110%">About different Google technologies</p>
+               <p class="google-font" style="font-size:110%">关于谷歌不同的技术：</p>
 
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>
@@ -21,7 +21,7 @@
                 
                 <br><br>
 
-                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Learn More</v-btn>
+                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>了解更多</v-btn>
 
             </v-flex> 
             <v-flex xs12 md9 lg9 class="">
@@ -29,26 +29,26 @@
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">chat_bubble</v-icon>
-                        <p class="google-font" style="font-size:130%">Talks</p>
-                        <p class="google-font" style="font-size:110%">Get updated with the latest news and announcements</p>
+                        <p class="google-font" style="font-size:130%">资讯分享</p>
+                        <p class="google-font" style="font-size:110%">分享最新的技术新闻和公告</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">code</v-icon>
-                        <p class="google-font" style="font-size:130%">Codelabs</p>
-                        <p class="google-font" style="font-size:110%">Get hands-on experience and guidance from the community members</p>
+                        <p class="google-font" style="font-size:130%">代码实验</p>
+                        <p class="google-font" style="font-size:110%">从社区成员那里获得实践经验和指导</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">school</v-icon>
-                        <p class="google-font" style="font-size:130%">Campus Roadshows</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:130%">公益宣讲</p>
+                        <p class="google-font" style="font-size:110%">在不同的公司、学校分享知识</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">airplay</v-icon>
-                        <p class="google-font" style="font-size:130%">Live Viewing Parties</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:130%">线下活动</p>
+                        <p class="google-font" style="font-size:110%">高频次的线下面对面的交流活动</p>
                     </v-flex>
 
                 </v-layout>

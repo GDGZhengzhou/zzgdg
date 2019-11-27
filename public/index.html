@@ -11,7 +11,7 @@
     <meta name="keywords" content="GDG, Google, Google Developers Groups, Jalandhar, GDG Jalandhar, DevFestJalandhar, DevFest, Vrijraj, Vrij">
     <meta name="author" content="Vrijraj Singh">
     <!-- OpenGraph Meta Tags -->
-    <meta name="og:title" content="GDG Jalandhar"/>
+    <meta name="og:title" content="GDG Zhengzhou"/>
     <meta name="og:type" content="Community"/>
     <meta name="og:url" content="https://gdgjalandhar.com"/>
   
@@ -34,4 +34,27 @@
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+      https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-analytics.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyC-83VsH-fqwkWWtjbsEEBxhaG0F-zP-rA",
+      authDomain: "zzgdg-9c7a6.firebaseapp.com",
+      databaseURL: "https://zzgdg-9c7a6.firebaseio.com",
+      projectId: "zzgdg-9c7a6",
+      storageBucket: "zzgdg-9c7a6.appspot.com",
+      messagingSenderId: "95587545062",
+      appId: "1:95587545062:web:77bac8c69fba14f8017027",
+      measurementId: "G-XP9XDF41VN"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
 </html>

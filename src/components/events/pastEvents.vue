@@ -22,7 +22,6 @@
                    Events are listed in reverse chronological order by date.
                </p>     
                <p class="google-font" style="font-size:110%;color:#616161 ">Here are the recent 10 meetups. To know more about the past meetups <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Click here</a></p>
-
             </v-flex> 
         </v-layout>
 

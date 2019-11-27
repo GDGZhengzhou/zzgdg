@@ -7,11 +7,11 @@ export default new Vuex.Store({
   state: {
     drawer: false,
     items: [ 
-      { text: 'Home', to: '/', icon:'home'},
-      { text: 'Events', to: '/events', icon: 'rounded_corner'},
-      { text: 'Team', to: '/team', icon:'group'},
-      { text: 'About', to: '/about', icon: 'toc'},
-      { text: 'Contact', to: '/contact', icon:'person'}
+      { text: '主页', to: '/', icon:'home'},
+      { text: '活动', to: '/events', icon: 'rounded_corner'},
+      { text: '我们', to: '/team', icon:'group'},
+      { text: '关于', to: '/about', icon: 'toc'},
+      { text: '联系', to: '/contact', icon:'person'}
     ]
   },
   getters:{
