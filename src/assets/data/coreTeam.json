@@ -1,56 +1,74 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
+        "name":"何金刚",
         "designation":"Front End Developer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"丁莺",
+        "designation":"Front End Developer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"李佩华",
+        "designation":"Front End Developer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"郭浩洋",
+        "designation":"刚入行的小Java",
+        "twitter":"",
+        "linkedin":"",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"guohaoyang.jpg",
+        "website":""
+    },
+    {
+        "name":"李潇",
+        "designation":"一只前端攻城狮",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"lixiao.jpg",
+        "website":""
+    },
+    {
+        "name":"靳凡磊",
+        "designation":"代码为何物？",
+        "twitter":"",
+        "linkedin":"",
         "github":"https://github.com/Vrijraj",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
+        "name":"张会超",
         "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"翟远航",
+        "designation":"望京打工仔",
+        "twitter":"https://baidu.com",
+        "linkedin":"https://baidu.com",
+        "github":"https://baidu.com",
+        "profileImage":"zhaiyuanhang.jpg",
         "website":""
     }
 ]
