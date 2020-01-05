@@ -2,9 +2,9 @@
     <v-container class="pa-0 pb-5">
         <v-layout wrap align-center justify-center row fill-height>
             <v-flex xs12 md12>
-                <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Partners</p>
-                <p class="google-font mt-1 mb-0" style="font-size:120%">A very big thank you to all our partners for their continued partnership.</p>
-                <p class="google-font mt-0" style="font-size:120%">If you’re interested in being showcased throughout <b>{{chapterDetails.ChapterName}}</b>, contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> to discuss sponsorship opportunities.</p>
+                <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >合作伙伴</p>
+                <p class="google-font mt-1 mb-0" style="font-size:120%">感谢合作伙伴们对郑州 GDG 的持续支持</p>
+                <p class="google-font mt-0" style="font-size:120%">如果您有兴趣在 <b>{{chapterDetails.ChapterName}}</b>上进行展示, 请联系 <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> 商讨赞助机会</p>
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">

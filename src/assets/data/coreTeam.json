@@ -1,29 +1,20 @@
 [
     {
         "name":"何金刚",
-        "designation":"Front End Developer",
+        "designation":"Think! Think before code",
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"hejingang.jpg",
         "website":""
     },
     {
         "name":"丁莺",
-        "designation":"Front End Developer",
+        "designation":"互联网营销菜鸟",
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"李佩华",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
+        "profileImage":"dingying.jpg",
         "website":""
     },
     {
@@ -50,16 +41,16 @@
         "twitter":"",
         "linkedin":"",
         "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "profileImage":"jinfanlei.jpg",
         "website":""
     },
     {
         "name":"张会超",
-        "designation":"Front End Developer",
+        "designation":"菜鸟 Android 程序猿/ Toast.show(∞) 播客主播",
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"zhanghuichao.jpg",
         "website":""
     },
     {

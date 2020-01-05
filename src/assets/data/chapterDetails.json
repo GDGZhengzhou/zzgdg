@@ -1,12 +1,12 @@
 {
     "ChapterName":"郑州 GDG",
     "ChapterShortDescription":"郑州GDG(谷歌开发者社区)是一个由Google支持的、主要关注谷歌及开源技术的民间开发者社区。我们的目标是，利用谷歌开发技术、开源代码、公开互联网标准等技术服务于开发者，一起推动互联网应用的开发和创新。在全球近500个主要的城市中，包括北京、上海、杭州、广州等，都有对应的GDG，这些社区之间都有畅通的沟通渠道，通过这些社区，你能更及时的了解Google最新的技术、产品与信息，也能在全国乃至全球GDG中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
+    "ChapterLongDec":"从 2015 年初 3 月份开始向 Google 申请、筹备以及经过试运营，郑州 GDG 终于在 2015 年 5 月 9 日正式成立了，截止到2020年郑州 GDG 已经举办超过 30 场线下活动，基本上每个月有一次活动。GDG 的品牌活动包括每年一次的大型 DevFest，此外还有 Google I/O Extended 直播活动、Women Techmakers 女性开发者活动。Android、Android Wear、VR／AR、Firebase、Progressive Web Apps、Accelerated Mobile Pages (AMP)、Chrome/HTML5、Polymer、Angular 各类技术 Meetup 活动以及 CodeLabs 动手实践活动。郑州 GDG 的组织者是由各种不同领域的开发者、创业者、设计师、自由职业者等组成的志愿者，他们利用业余时间从事社区工作。我们是一个开放的社区，随时欢迎你的加入，如你愿意贡献自己的力量，请直接与我们联系。",
     "ChapterMeetupLink":"https://www.meetup.com/GDG-Zhengzhou",
     "ChapterEmail":"gdgjalandhar@gmail.com",
     "website":"https://gdgjalandhar.com",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGZhengzhou","GDG","WTM"],
+    "ChapterHashTags":["GDGZhengzhou","GDG","WTM","DevFest","MeetUp"],
     "socialLinks":[
         {
             "name" : "Facebook",
